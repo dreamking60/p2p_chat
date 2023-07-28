@@ -1,4 +1,4 @@
-package cn.edu.sustech.cs209.chatting.client;
+package im.tox.p2pchat;
 
 import cn.edu.sustech.cs209.chatting.common.Message;
 import java.util.List;

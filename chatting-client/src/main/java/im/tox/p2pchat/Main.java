@@ -1,4 +1,4 @@
-package cn.edu.sustech.cs209.chatting.client;
+package im.tox.p2pchat;
 
 import java.io.IOException;
 import javafx.application.Application;
